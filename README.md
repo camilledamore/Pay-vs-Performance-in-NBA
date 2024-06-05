@@ -31,7 +31,7 @@ Figure 2 shows a scatter plot of average points per minute against average salar
 <img width="909" alt="Screen Shot 2024-06-04 at 9 57 18 PM" src="https://github.com/camilledamore/Pay-vs-Performance-in-NBA/assets/157072047/39e9fca7-30f7-4969-ae93-645c96803067">
 
 #### Figure 2: Average Points per Minute vs. Average Salary per Player.
-Each dot represents an individual player’s average points per minute and average salary over the five-year period. Player salary is reported in 2015 dollars.
+Each dot represents an individual player’s average points per minute and average salary over the five-year period. A warmer color represents a higher salary, and a cooler color represents a lower salary. Player salaries are reported in 2015 dollars.
 
 
 Using approximate salary data drom 
