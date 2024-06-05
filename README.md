@@ -1,6 +1,4 @@
 # Does Higher Pay Mean Better Performance in the NBA?
-Exploring the relationship between player salaries and on-court performance in the NBA.
-And exploring salary over time, adjusted for inflation
 
 Avg pay has been rising in the NBA.  Is this  due to to inflation, or are players getting better? (or is it a combination of the two?)
 
