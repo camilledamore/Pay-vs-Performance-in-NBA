@@ -31,9 +31,11 @@ Figure 2 shows a scatter plot of average points per minute against average salar
 <img width="909" alt="Screen Shot 2024-06-04 at 9 57 18 PM" src="https://github.com/camilledamore/Pay-vs-Performance-in-NBA/assets/157072047/39e9fca7-30f7-4969-ae93-645c96803067">
 
 #### Figure 2: Average Points per Minute vs. Average Salary per Player.
-Each dot represents an individual player’s average points per minute and average salary over the five-year period. A warmer color represents a higher salary, and a cooler color represents a lower salary. Player salaries are reported in 2015 dollars.
+Each dot represents an individual player’s average points per minute and average salary over the five-year period. A warmer color represents a higher level of scoring perfomance, and a cooler color represents a lower level of scoring performance. Player salaries are reported in 2015 dollars.
+
+(Note: this analysis only takes into account points scored.  There are other metrics of performance (i.e. shots blocked, etc.) that were not accounted for in this analysis).
+
+Thus, there is a positive correlation between this points scored per min metric and salary. 
+However, futher analysis, (i.e. performance metric by position) is needed to make any conclusive statements about the causation of the increase in top player salaries.  
 
 
-Using approximate salary data drom 
-
-The average salary rings in at $5.27 million, with players contributing an average of 21.8787 minutes per game and scoring at a rate of 10.00343 points per game. These averages set the baseline for evaluating the relationship between financial investment and on-court delivery.
