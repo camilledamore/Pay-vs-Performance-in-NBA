@@ -31,7 +31,7 @@ Figure 2 shows a scatter plot of average points per minute against average salar
 #### Figure 2: Average Points per Minute vs. Average Salary per Player.
 Each dot represents an individual player’s average points per minute and average salary over the five-year period. A warmer color represents a higher level of scoring perfomance, and a cooler color represents a lower level of scoring performance. Player salaries are reported in 2015 dollars.
 
-(Note: this analysis only takes into account points scored.  There are other metrics of performance (i.e. shots blocked, etc.) that were not accounted for in this analysis).
+(Note: this analysis only takes into account points scored.  There are other metrics of performance (i.e. shots blocked, etc.) that were not accounted for in this analysis). Furthermore, there are other metrics that  affect a players' salary, such as fame (and the economic implications of popularity-- i.e. merch, ticket sales, etc). 
 
 ### Thus, there is a positive correlation between this points scored per minute performance metric and salary!
 
