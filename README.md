@@ -28,7 +28,7 @@ Red diamonds indicate the average player salary in each season. Player salaries 
 
 Figure 2 shows a scatter plot of average points per minute against average salary per player. 
 
-<img width="909" alt="Screen Shot 2024-06-04 at 9 57 18 PM" src="https://github.com/camilledamore/Pay-vs-Performance-in-NBA/assets/157072047/39e9fca7-30f7-4969-ae93-645c96803067">
+<img width="797" alt="Screen Shot 2024-06-04 at 11 39 05 PM" src="https://github.com/camilledamore/Pay-vs-Performance-in-NBA/assets/157072047/c9ebd1b5-2c10-45d7-bbcf-d7f46c9ed9d0">
 
 #### Figure 2: Average Points per Minute vs. Average Salary per Player.
 Each dot represents an individual player’s average points per minute and average salary over the five-year period. A warmer color represents a higher level of scoring perfomance, and a cooler color represents a lower level of scoring performance. Player salaries are reported in 2015 dollars.
