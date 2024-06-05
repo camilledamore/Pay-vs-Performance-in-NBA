@@ -35,7 +35,8 @@ Each dot represents an individual player’s average points per minute and avera
 
 (Note: this analysis only takes into account points scored.  There are other metrics of performance (i.e. shots blocked, etc.) that were not accounted for in this analysis).
 
-Thus, there is a positive correlation between this points scored per min metric and salary. 
+### Thus, there is a positive correlation between this points scored per minute performance metric and salary!
+
 However, futher analysis, (i.e. performance metric by position) is needed to make any conclusive statements about the causation of the increase in top player salaries.  
 
 
